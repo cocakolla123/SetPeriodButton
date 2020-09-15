@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=TogglePeriodBtn
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ TogglePeriodBtn.\r\n\ \r\n
+comment1.params=
+comment1.target=TogglePeriodBtn()
+comment2.params=
+comment2.target=int\ getCurrentPeriod()
+comment3.params=
+comment3.target=void\ act()
+numComments=4
