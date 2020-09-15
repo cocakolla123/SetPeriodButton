@@ -1,6 +1,12 @@
 # SetPeriodButton
 Set Period Button
 
+Contributors
+- Sai Kolla
+- Sharvin Manjrekar
+- Joshua Chon
+- Anirudh Nagasamudra
+
 1) Start git bash (assuming that you are using git bash)
 2) Move to a directory where you want to keep your work. For instance, cd c:/ then cd Users/YourName/Documents/Assignments
 3) Clone the repository into the directory where git bash is pointing:
